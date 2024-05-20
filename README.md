@@ -4,7 +4,7 @@
 Hello, I'm Mathis, a technology enthusiast and developer. I'm currently living in Lille (France) and studying at Epitech !
 
 ## 🌟 Skills
-- **Programming Languages:** JavaScript, C, HTML, CSS
+- **Programming Languages:** JavaScript, C
 - **Frameworks and Libraries:** React, Node.js, TailwindCSS, Express.js
 - **Databases:** MySQL
 - **Development Tools:** Git, Docker, Github Actions
