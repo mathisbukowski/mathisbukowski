@@ -18,6 +18,7 @@ Here are some recent projects I've worked on:
 
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mathisbukowski&show_icons=true&theme=radical)
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs?username=mathisbukowski&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515)
 
 ## 📫 Contact Me
 - **Email:** [mathis.bukowski@epitech.eu](mailto:mathis.bukowski@epitech.eu)
