@@ -26,7 +26,7 @@ Here are some recent projects I've worked on:
 ## 🌱 Currently Learning
 Right now, I am focused on learning:
 - C Language
-- Next.js
+- Go
 - DevOps
 
 ## 💬 Let's Talk!
