@@ -17,8 +17,9 @@ Here are some recent projects I've worked on:
 - **[Portfolio](https://mathisbukowski.fr):** My portfolio, which is always in development.
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mathisbukowski&show_icons=true&theme=radical)
-![Github Languages](https://github-readme-stats.vercel.app/api/top-langs?username=mathisbukowski&layout=compact&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mathisbukowski&show_icons=true&theme=radical&v=1)
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs?username=mathisbukowski&layout=compact&show_icons=true&theme=radical&v=1)
+
 
 ## 📫 Contact Me
 - **Email:** [mathis.bukowski@epitech.eu](mailto:mathis.bukowski@epitech.eu)
