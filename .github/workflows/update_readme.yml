@@ -22,7 +22,7 @@ jobs:
         run: pip install requests
 
       - name: Run update script
-        run: python get_commits.py
+        run: python get_last_commits.py
 
       - name: Commit changes
         run: |
