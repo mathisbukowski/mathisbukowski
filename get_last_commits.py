@@ -26,7 +26,7 @@ def update_readme(commits):
         message = commit['commit']['message']
         author = commit['commit']['author']['name']
         date = commit['commit']['author']['date']
-        new_commits_content += f"🔸 - {message} from {author} at {date}\n"
+        new_commits_content += f"\n\n🔸 - {message} from {author} at {date}\n"
 
     if "## 🏗 Last commits" in current_content:
         updated_content = current_content.split("## 🚦 Last commits on {REPO}")[0] + new_commits_content
