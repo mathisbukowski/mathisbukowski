@@ -18,8 +18,8 @@ def update_readme(commits):
     try:
         with open(readme_path, "r") as readme_file:
             current_content = readme_file.read()
-        except FileNotFoundError:
-            current_content = ""
+    except FileNotFoundError:
+        current_content = ""
 
     readme_content = "## 🏗 Last commits\n\n"
     for commit in commits:
