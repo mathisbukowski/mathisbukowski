@@ -1,5 +1,4 @@
 import requests
-import os
 
 GITHUB_API_URL = "https://api.github.com"
 REPO = "mathisbukowski/Railess"
@@ -15,20 +14,24 @@ def fetch_commits():
 
 def update_readme(commits):
     readme_path = "README.md"
+
     try:
         with open(readme_path, "r") as readme_file:
             current_content = readme_file.read()
     except FileNotFoundError:
         current_content = ""
 
-    readme_content = "\n\n## 🏗 Last commits\n\n"
+    new_commits_content = "\n\n## 🏗 Last commits\n\n"
     for commit in commits:
         message = commit['commit']['message']
         author = commit['commit']['author']['name']
         date = commit['commit']['author']['date']
-        readme_content += f"\n🔸 - {message} from {author} at {date}\n"
+        new_commits_content += f"🔸 - {message} from {author} at {date}\n"
 
-    updated_content = current_content + readme_content
+    if "## 🏗 Last commits" in current_content:
+        updated_content = current_content.split("## 🏗 Last commits")[0] + new_commits_content
+    else:
+        updated_content = current_content + new_commits_content
 
     with open(readme_path, "w") as readme_file:
         readme_file.write(updated_content)
