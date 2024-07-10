@@ -21,7 +21,7 @@ def update_readme(commits):
     except FileNotFoundError:
         current_content = ""
 
-    new_commits_content = f"\n\n## 🚦 Last commits on {REPO}\n\n"
+    new_commits_content = "\n\n## 🚦 Last commits on Railess\n\n"
     for commit in commits:
         message = commit['commit']['message']
         author = commit['commit']['author']['name']
