@@ -32,4 +32,4 @@ jobs:
           git config --global user.email 'mathis.bukowski@epitech.eu'
           git add README.md
           git commit -m 'feat(readme): update repo.'
-          git push
+          git push origin main --force
