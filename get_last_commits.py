@@ -14,7 +14,7 @@ def fetch_commits():
         return []
 
 def update_readme(commits):
-     readme_path = "README.md"
+    readme_path = "README.md"
     try:
         with open(readme_path, "r") as readme_file:
             current_content = readme_file.read()
