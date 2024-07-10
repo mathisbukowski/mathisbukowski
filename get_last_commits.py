@@ -21,12 +21,12 @@ def update_readme(commits):
     except FileNotFoundError:
         current_content = ""
 
-    readme_content = "## 🏗 Last commits\n\n"
+    readme_content = "\n\n## 🏗 Last commits\n\n"
     for commit in commits:
         message = commit['commit']['message']
         author = commit['commit']['author']['name']
         date = commit['commit']['author']['date']
-        readme_content += f"🔸 - {message} from {author} at {date}\n"
+        readme_content += f"\n🔸 - {message} from {author} at {date}\n"
 
     updated_content = current_content + readme_content
 
