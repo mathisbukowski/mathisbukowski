@@ -28,7 +28,7 @@ def update_readme(commits):
         date = commit['commit']['author']['date']
         readme_content += f"🔸 - {message} from {author} at {date}\n"
 
-   updated_content = current_content + new_content
+    updated_content = current_content + new_content
 
     with open(readme_path, "w") as readme_file:
         readme_file.write(updated_content)
