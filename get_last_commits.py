@@ -1,10 +1,10 @@
 import requests
 
 GITHUB_API_URL = "https://api.github.com"
-REPO = "mathisbukowski/Railess"
+USERNAME = "mathisbukowski"
 
 def fetch_commits():
-    url = f"{GITHUB_API_URL}/repos/{REPO}/commits"
+    url = f"{GITHUB_API_URL}/users/{USERNAME}/repos"
     response = requests.get(url)
     if response.status_code == 200:
         commits = response.json()
