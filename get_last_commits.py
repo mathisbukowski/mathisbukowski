@@ -29,7 +29,7 @@ def update_readme(commits):
         new_commits_content += f"\n\n🔸 - {message} from {author} at {date}\n"
 
     if "## 🚦 Last commits on Railess" in current_content:
-        updated_content = current_content.split("## 🚦 Last commits on {REPO}")[0] + new_commits_content
+        updated_content = current_content.split("## 🚦 Last commits on Railess")[0] + new_commits_content
     else:
         updated_content = current_content + new_commits_content
 
