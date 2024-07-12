@@ -1,7 +1,8 @@
 # Hi there 👋
 
 ## Who am I ? 🧐
-Hello, I'm Mathis, a technology enthusiast and developer. I'm currently living in Lille (France) and studying at Epitech !
+Hello, I'm Mathis, a technology enthusiast and developer. 
+I'm currently living in Lille (France) and studying at Epitech !
 
 ## 🌟 Skills
 - **Programming Languages:** JavaScript, C
