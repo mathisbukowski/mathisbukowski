@@ -32,7 +32,7 @@ def update_readme(commits):
         date = commit['commit']['author']['date']
         new_commits_content += f"\n\n🔸 - {message} from {author} at {date}\n"
 
-    time_sentence = f"Updated at {time}"
+    time_sentence = f"\n\n ⏱ Updated at {time}"
     if "## 🚦 Last commits on Railess" in current_content:
         updated_content = current_content.split("## 🚦 Last commits on Railess")[0] + new_commits_content + time_sentence
     else:
