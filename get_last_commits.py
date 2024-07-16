@@ -1,9 +1,11 @@
 import requests
 from datetime import datetime
+import pytz
 
 GITHUB_API_URL = "https://api.github.com"
 REPO = "mathisbukowski/Railess"
-now = datetime.now()
+paris_tz = pytz.timezone('Europe/Paris')
+now = datetime.now(paris_tz)
 
 def fetch_commits():
     url = f"{GITHUB_API_URL}/repos/{REPO}/commits"
@@ -32,7 +34,7 @@ def update_readme(commits):
         date = commit['commit']['author']['date']
         new_commits_content += f"\n\n🔸 - {message} from {author} at {date}\n"
 
-    time_sentence = f"\n\n ⏱ Updated at {time}"
+    time_sentence = f"\n\n ⏲ Updated at {time}"
     if "## 🚦 Last commits on Railess" in current_content:
         updated_content = current_content.split("## 🚦 Last commits on Railess")[0] + new_commits_content + time_sentence
     else:
