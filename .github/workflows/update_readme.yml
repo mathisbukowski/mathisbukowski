@@ -19,7 +19,7 @@ jobs:
           python-version: '3.x'
 
       - name: Install requests
-        run: pip install requests
+        run: pip install requests pytz
 
       - name: Run update script
         run: python get_last_commits.py
