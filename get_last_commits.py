@@ -37,6 +37,11 @@ def fetch_commits(repo_name):
         print(f"Failed to fetch commits for {repo_name}: {response.status_code} {response.text}")
         response.raise_for_status()
 
+def reformat_date(iso_date_str):
+    date = datetime.fromisoformat(iso_date_str.replace('Z', '+00:00'))
+    date = date.astimezone(paris_tz)
+    return date.strftime('%Y-%m-%d %H:%M:%S %Z')
+
 def update_readme(commits):
     readme_path = "README.md"
     time = now.strftime("%H:%M:%S")
@@ -51,9 +56,8 @@ def update_readme(commits):
     for commit in commits:
         repo_name = commit['repo_name']
         message = commit['commit']['message']
-        author = commit['commit']['author']['name']
-        date = commit['commit']['author']['date']
-        new_commits_content += f"\n🔸 - {message} from {author} at {date} in {repo_name}\n"
+        date = reformat_date(commit['commit']['author']['date'])
+        new_commits_content += f"\n🔸 - {message} at {date} in {repo_name}\n"
 
     time_sentence = f"\n\n⏲ Updated at {time}"
     if "## 🚦 Last commits on all repositories" in current_content:
