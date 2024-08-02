@@ -6,6 +6,11 @@ import pytz
 GITHUB_API_URL = "https://api.github.com"
 USERNAME = "mathisbukowski"
 GITHUB_TOKEN = os.getenv('GH_TOKEN')
+
+# Check if the token is retrieved
+if not GITHUB_TOKEN:
+    raise ValueError("GitHub token not found in environment variables")
+
 paris_tz = pytz.timezone('Europe/Paris')
 now = datetime.now(paris_tz)
 
@@ -17,7 +22,8 @@ def fetch_repositories():
         repos = response.json()
         return repos
     else:
-        return []
+        print(f"Failed to fetch repositories: {response.status_code} {response.text}")
+        response.raise_for_status()
 
 def fetch_commits(repo_name):
     url = f"{GITHUB_API_URL}/repos/{USERNAME}/{repo_name}/commits"
@@ -59,13 +65,16 @@ def update_readme(commits_by_repo):
         readme_file.write(updated_content)
 
 if __name__ == "__main__":
-    repositories = fetch_repositories()
-    commits_by_repo = {}
-    for repo in repositories:
-        repo_name = repo['name']
-        print(f"Fetching commits for repository: {repo_name}")
-        try:
-            commits_by_repo[repo_name] = fetch_commits(repo_name)
-        except requests.exceptions.HTTPError as e:
-            print(f"Error fetching commits for {repo_name}: {e}")
-    update_readme(commits_by_repo)
+    try:
+        repositories = fetch_repositories()
+        commits_by_repo = {}
+        for repo in repositories:
+            repo_name = repo['name']
+            print(f"Fetching commits for repository: {repo_name}")
+            try:
+                commits_by_repo[repo_name] = fetch_commits(repo_name)
+            except requests.exceptions.HTTPError as e:
+                print(f"Error fetching commits for {repo_name}: {e}")
+        update_readme(commits_by_repo)
+    except ValueError as ve:
+        print(ve)
