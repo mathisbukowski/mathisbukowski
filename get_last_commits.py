@@ -7,10 +7,6 @@ GITHUB_API_URL = "https://api.github.com"
 USERNAME = "mathisbukowski"
 GITHUB_TOKEN = os.getenv('GH_TOKEN')
 
-# Check if the token is retrieved
-if not GITHUB_TOKEN:
-    raise ValueError("GitHub token not found in environment variables")
-
 paris_tz = pytz.timezone('Europe/Paris')
 now = datetime.now(paris_tz)
 
