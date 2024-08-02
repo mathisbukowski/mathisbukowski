@@ -17,7 +17,7 @@ def fetch_repositories():
         repos = response.json()
         return repos
     else:
-        response.raise_for_status()
+        return []
 
 def fetch_commits(repo_name):
     url = f"{GITHUB_API_URL}/repos/{USERNAME}/{repo_name}/commits"
