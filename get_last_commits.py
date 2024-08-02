@@ -1,7 +1,7 @@
 import requests
 from datetime import datetime
-import pytz
 import os
+import pytz
 
 GITHUB_API_URL = "https://api.github.com"
 USERNAME = "mathisbukowski"
@@ -27,6 +27,7 @@ def fetch_commits(repo_name):
         commits = response.json()
         return commits[:5]
     else:
+        print(f"Failed to fetch commits for {repo_name}: {response.status_code} {response.text}")
         response.raise_for_status()
 
 def update_readme(commits_by_repo):
@@ -62,5 +63,9 @@ if __name__ == "__main__":
     commits_by_repo = {}
     for repo in repositories:
         repo_name = repo['name']
-        commits_by_repo[repo_name] = fetch_commits(repo_name)
+        print(f"Fetching commits for repository: {repo_name}")
+        try:
+            commits_by_repo[repo_name] = fetch_commits(repo_name)
+        except requests.exceptions.HTTPError as e:
+            print(f"Error fetching commits for {repo_name}: {e}")
     update_readme(commits_by_repo)
