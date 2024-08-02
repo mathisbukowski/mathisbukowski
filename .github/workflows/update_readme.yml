@@ -24,6 +24,7 @@ jobs:
       - name: Run update script
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GH_USERNAME: ${{ secrets.GH_USERNAME }}
         run: python get_last_commits.py
 
       - name: Commit changes
