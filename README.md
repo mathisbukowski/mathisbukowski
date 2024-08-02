@@ -38,28 +38,30 @@ I'm always open to discussing new ideas, projects, or just chatting about techno
 Thank you for visiting my GitHub profile!
 
 
+
+
 ## 🚦 Last commits on all repositories
 
 
-🔸 - chore(commits_fetcher): add a new version with new env vars from Mathis Bukowski at 2024-08-02T19:34:05Z in mathisbukowski
+🔸 - chore(commits_fetcher): add debug print at 2024-08-02 22:15:22 CEST in mathisbukowski
 
-🔸 - feat(readme): update repo. from mathisbukowski at 2024-08-02T19:29:02Z in mathisbukowski
+🔸 - chore(commits_fetcher): add debug print at 2024-08-02 22:13:40 CEST in mathisbukowski
 
-🔸 - fix(commit_fetcher): fix a env miss in the yml from Mathis Bukowski at 2024-08-02T19:28:38Z in mathisbukowski
+🔸 - fix(commit_fetcher): fix the date  and remove author at 2024-08-02 22:01:40 CEST in mathisbukowski
 
-🔸 - fix(commit_fetcher): fix a perm miss from Mathis Bukowski at 2024-08-02T19:26:32Z in mathisbukowski
+🔸 - feat(readme): update repo. at 2024-08-02 21:34:32 CEST in mathisbukowski
 
-🔸 - fix(commit_fetcher): fix a return from Mathis Bukowski at 2024-08-02T19:23:56Z in mathisbukowski
+🔸 - chore(commits_fetcher): add a new version with new env vars at 2024-08-02 21:34:05 CEST in mathisbukowski
 
-🔸 - fix(commit_fetcher): fix error handling from Mathis Bukowski at 2024-08-02T19:20:47Z in mathisbukowski
+🔸 - feat(readme): update repo. at 2024-08-02 21:29:02 CEST in mathisbukowski
 
-🔸 - feat(commits_fetcher): add all the repo not only railess from Mathis Bukowski at 2024-08-01T20:08:17Z in mathisbukowski
+🔸 - fix(commit_fetcher): fix a env miss in the yml at 2024-08-02 21:28:38 CEST in mathisbukowski
 
-🔸 - feat(readme): update repo. from mathisbukowski at 2024-08-01T18:26:50Z in mathisbukowski
+🔸 - fix(commit_fetcher): fix a perm miss at 2024-08-02 21:26:32 CEST in mathisbukowski
 
-🔸 - feat(tailwind): init tailwind in the project and remove css components files from Mathis Bukowski at 2024-08-01T16:47:18Z in INN-ANGULAR
+🔸 - fix(commit_fetcher): fix a return at 2024-08-02 21:23:56 CEST in mathisbukowski
 
-🔸 - feat(navbar): add the generate component for the navbar from Mathis Bukowski at 2024-08-01T16:32:16Z in INN-ANGULAR
+🔸 - fix(commit_fetcher): fix error handling at 2024-08-02 21:20:47 CEST in mathisbukowski
 
 
-⏲ Updated at 21:34:24
+⏲ Updated at 22:15:38
