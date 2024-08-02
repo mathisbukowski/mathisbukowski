@@ -36,3 +36,30 @@ Right now, I am focused on learning:
 I'm always open to discussing new ideas, projects, or just chatting about technology. Feel free to reach out!
 
 Thank you for visiting my GitHub profile!
+
+
+## 🚦 Last commits on all repositories
+
+
+🔸 - chore(commits_fetcher): add a new version with new env vars from Mathis Bukowski at 2024-08-02T19:34:05Z in mathisbukowski
+
+🔸 - feat(readme): update repo. from mathisbukowski at 2024-08-02T19:29:02Z in mathisbukowski
+
+🔸 - fix(commit_fetcher): fix a env miss in the yml from Mathis Bukowski at 2024-08-02T19:28:38Z in mathisbukowski
+
+🔸 - fix(commit_fetcher): fix a perm miss from Mathis Bukowski at 2024-08-02T19:26:32Z in mathisbukowski
+
+🔸 - fix(commit_fetcher): fix a return from Mathis Bukowski at 2024-08-02T19:23:56Z in mathisbukowski
+
+🔸 - fix(commit_fetcher): fix error handling from Mathis Bukowski at 2024-08-02T19:20:47Z in mathisbukowski
+
+🔸 - feat(commits_fetcher): add all the repo not only railess from Mathis Bukowski at 2024-08-01T20:08:17Z in mathisbukowski
+
+🔸 - feat(readme): update repo. from mathisbukowski at 2024-08-01T18:26:50Z in mathisbukowski
+
+🔸 - feat(tailwind): init tailwind in the project and remove css components files from Mathis Bukowski at 2024-08-01T16:47:18Z in INN-ANGULAR
+
+🔸 - feat(navbar): add the generate component for the navbar from Mathis Bukowski at 2024-08-01T16:32:16Z in INN-ANGULAR
+
+
+⏲ Updated at 21:34:24
