@@ -55,6 +55,7 @@ def update_readme(commits):
     new_commits_content = "\n\n## 🚦 Last commits on all repositories\n\n"
     for commit in commits:
         repo_name = commit['repo_name']
+        print(f"{repo_name}")
         message = commit['commit']['message']
         date = reformat_date(commit['commit']['author']['date'])
         new_commits_content += f"\n🔸 - {message} at {date} in {repo_name}\n"
