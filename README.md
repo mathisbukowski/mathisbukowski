@@ -46,28 +46,30 @@ Thank you for visiting my GitHub profile!
 
 
 
+
+
 ## 🚦 Last commits on all repositories
 
 
-🔸 - feat(readme): update repo. at 2024-08-03 08:27:37 CEST in mathisbukowski
+🔸 - chore(commits_fetcher): trying put the first script at 2024-08-03 20:27:28 CEST
 
-🔸 - feat(readme): update repo. at 2024-08-03 03:32:52 CEST in mathisbukowski
+🔸 - chore(commits_fetcher): trying put the first script at 2024-08-03 20:26:25 CEST
 
-🔸 - feat(readme): update repo. at 2024-08-02 22:15:41 CEST in mathisbukowski
+🔸 - chore(commits_fetcher): trying to fix the repo name with new var at 2024-08-03 20:24:23 CEST
 
-🔸 - chore(commits_fetcher): add debug print at 2024-08-02 22:15:22 CEST in mathisbukowski
+🔸 - chore(commits_fetcher): trying to fix the repo name at 2024-08-03 20:21:46 CEST
 
-🔸 - chore(commits_fetcher): add debug print at 2024-08-02 22:13:40 CEST in mathisbukowski
+🔸 - feat(readme): update repo. at 2024-08-03 14:35:57 CEST
 
-🔸 - fix(commit_fetcher): fix the date  and remove author at 2024-08-02 22:01:40 CEST in mathisbukowski
+🔸 - feat(readme): update repo. at 2024-08-03 08:27:37 CEST
 
-🔸 - feat(readme): update repo. at 2024-08-02 21:34:32 CEST in mathisbukowski
+🔸 - feat(readme): update repo. at 2024-08-03 03:32:52 CEST
 
-🔸 - chore(commits_fetcher): add a new version with new env vars at 2024-08-02 21:34:05 CEST in mathisbukowski
+🔸 - feat(readme): update repo. at 2024-08-02 22:15:41 CEST
 
-🔸 - feat(readme): update repo. at 2024-08-02 21:29:02 CEST in mathisbukowski
+🔸 - chore(commits_fetcher): add debug print at 2024-08-02 22:15:22 CEST
 
-🔸 - fix(commit_fetcher): fix a env miss in the yml at 2024-08-02 21:28:38 CEST in mathisbukowski
+🔸 - chore(commits_fetcher): add debug print at 2024-08-02 22:13:40 CEST
 
 
-⏲ Updated at 14:35:52
+⏲ Updated at 20:27:48
