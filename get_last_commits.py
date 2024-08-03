@@ -54,8 +54,7 @@ def update_readme(commits):
 
     new_commits_content = "\n\n## 🚦 Last commits on all repositories\n\n"
     for commit in commits:
-        repo_name = commit['repo_name']
-        print(f"DEBUG PRINT FOR REPO NAME {repo_name}")
+        repo_name = commit['repository_name']
         message = commit['commit']['message']
         date = reformat_date(commit['commit']['author']['date'])
         new_commits_content += f"\n🔸 - {message} at {date} in {repo_name}\n"
@@ -79,7 +78,7 @@ if __name__ == "__main__":
             try:
                 commits = fetch_commits(repo_name)
                 for commit in commits:
-                    commit['repo_name'] = repo_name
+                    commit['repository_name'] = repo_name
                 all_commits.extend(commits)
             except requests.exceptions.HTTPError as e:
                 print(f"Error fetching commits for {repo_name}: {e}")
