@@ -12,9 +12,9 @@ I'm currently living in Lille (France) and studying at Epitech !
 
 ## 🔭 Recent Projects
 Here are some recent projects I've worked on:
-- **[Sam](https://github.com/mathisbukowski/jam-03):** JAM Epitech made for having all wildfires in the world with FIRMS API.
+- **[Corewar](https://github.com/mathisbukowski/Corewar):** My version of the Corewar ! (w/[Rafael Drouart](https://github.com/rafaeldrouart))
 - **[Railess](https://github.com/mathisbukowski/Railess):** JAM Epitech made for drop all infos about train station.
-- **[Portfolio](https://mathisbukowski.fr):** My portfolio, which is always in development.
+- **[MyRadar](https://github.com/mathisbukowski/MyRadar):** My graphic version of an air traffic control radar.
 
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mathisbukowski&show_icons=true&theme=radical&v=1)
