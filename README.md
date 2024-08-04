@@ -38,12 +38,6 @@ I'm always open to discussing new ideas, projects, or just chatting about techno
 Thank you for visiting my GitHub profile!
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-
-
 
 
 ## 🚦 Last commits on all repositories
