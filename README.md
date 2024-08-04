@@ -48,28 +48,38 @@ Thank you for visiting my GitHub profile!
 
 
 
+
+
 ## 🚦 Last commits on all repositories
 
 
-🔸 - chore(commits_fetcher): trying put the first script at 2024-08-03 20:27:28 CEST
+🔸 - feat(init): edit for better creation of files at 2024-08-04 00:06:17 CEST
 
-🔸 - chore(commits_fetcher): trying put the first script at 2024-08-03 20:26:25 CEST
+🔸 - merge(mathisbukowski/include_init): pull request #4
 
-🔸 - chore(commits_fetcher): trying to fix the repo name with new var at 2024-08-03 20:24:23 CEST
+feat(include_init): add the init of the include at 2024-08-03 23:53:00 CEST
 
-🔸 - chore(commits_fetcher): trying to fix the repo name at 2024-08-03 20:21:46 CEST
+🔸 - feat(include_init): add the init of the include at 2024-08-03 23:51:47 CEST
 
-🔸 - feat(readme): update repo. at 2024-08-03 14:35:57 CEST
+🔸 - feat(src_init): add the check of existing directory at 2024-08-03 23:48:11 CEST
 
-🔸 - feat(readme): update repo. at 2024-08-03 08:27:37 CEST
+🔸 - merge(mathisbukowski/src_init): pull request #3
 
-🔸 - feat(readme): update repo. at 2024-08-03 03:32:52 CEST
+feat(src_init): add the init of the src directory at 2024-08-03 23:30:26 CEST
 
-🔸 - feat(readme): update repo. at 2024-08-02 22:15:41 CEST
+🔸 - feat(src_init): add the init of the src directory at 2024-08-03 23:29:52 CEST
 
-🔸 - chore(commits_fetcher): add debug print at 2024-08-02 22:15:22 CEST
+🔸 - merge(mathisbukowski/gitignore_init): pull request #2
 
-🔸 - chore(commits_fetcher): add debug print at 2024-08-02 22:13:40 CEST
+merge(gitignore_init). at 2024-08-03 23:21:21 CEST
+
+🔸 - feat(gitignore_init): add the base of the gitignore setup at 2024-08-03 23:20:25 CEST
+
+🔸 - merge(mathisbukowski/makefile_init): pull request #1
+
+merge(makefile_init). at 2024-08-03 22:36:31 CEST
+
+🔸 - feat(makefile_init): adding the makefile init in the bash script at 2024-08-03 22:35:14 CEST
 
 
-⏲ Updated at 20:27:48
+⏲ Updated at 03:40:34
