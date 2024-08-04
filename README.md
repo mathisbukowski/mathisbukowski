@@ -28,7 +28,7 @@ Here are some recent projects I've worked on:
 
 ## 🌱 Currently Learning
 Right now, I am focused on learning:
-- C Language
+- [TypeScript & Angular](https://github.com/mathisbukowski/INN-ANGULAR)
 - Go & Java
 - DevOps
 
