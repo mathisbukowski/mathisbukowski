@@ -54,8 +54,12 @@ Thank you for visiting my GitHub profile!
 
 
 
+
+
 ## 🚦 Last commits on all repositories
 
+
+🔸 - feat(readme): update repo. at 2024-08-04 14:35:54 CEST
 
 🔸 - feat(readme): update repo. at 2024-08-04 08:27:04 CEST
 
@@ -81,7 +85,5 @@ feat(src_init): add the init of the src directory at 2024-08-03 23:30:26 CEST
 
 merge(gitignore_init). at 2024-08-03 23:21:21 CEST
 
-🔸 - feat(gitignore_init): add the base of the gitignore setup at 2024-08-03 23:20:25 CEST
 
-
-⏲ Updated at 14:35:51
+⏲ Updated at 20:25:18
