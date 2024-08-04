@@ -50,8 +50,12 @@ Thank you for visiting my GitHub profile!
 
 
 
+
+
 ## 🚦 Last commits on all repositories
 
+
+🔸 - feat(readme): update repo. at 2024-08-04 03:40:39 CEST
 
 🔸 - feat(init): edit for better creation of files at 2024-08-04 00:06:17 CEST
 
@@ -79,7 +83,5 @@ merge(gitignore_init). at 2024-08-03 23:21:21 CEST
 
 merge(makefile_init). at 2024-08-03 22:36:31 CEST
 
-🔸 - feat(makefile_init): adding the makefile init in the bash script at 2024-08-03 22:35:14 CEST
 
-
-⏲ Updated at 03:40:34
+⏲ Updated at 08:27:01
