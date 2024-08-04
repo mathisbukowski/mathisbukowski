@@ -52,8 +52,12 @@ Thank you for visiting my GitHub profile!
 
 
 
+
+
 ## 🚦 Last commits on all repositories
 
+
+🔸 - feat(readme): update repo. at 2024-08-04 08:27:04 CEST
 
 🔸 - feat(readme): update repo. at 2024-08-04 03:40:39 CEST
 
@@ -79,9 +83,5 @@ merge(gitignore_init). at 2024-08-03 23:21:21 CEST
 
 🔸 - feat(gitignore_init): add the base of the gitignore setup at 2024-08-03 23:20:25 CEST
 
-🔸 - merge(mathisbukowski/makefile_init): pull request #1
 
-merge(makefile_init). at 2024-08-03 22:36:31 CEST
-
-
-⏲ Updated at 08:27:01
+⏲ Updated at 14:35:51
