@@ -73,6 +73,8 @@ if __name__ == "__main__":
         all_commits = []
         for repo in repositories:
             repo_name = repo['name']
+            if repo_name == "mathisbukowski":
+                continue;
             print(f"Fetching commits for repository: {repo_name}")
             try:
                 commits = fetch_commits(repo_name)
