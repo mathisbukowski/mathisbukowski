@@ -42,8 +42,14 @@ Thank you for visiting my GitHub profile!
 
 
 
+
+
 ## 🚦 Last commits on all repositories
 
+
+🔸 - Update README.md at 2024-08-04 22:53:05 CEST
+
+🔸 - feat(readme): add readme. at 2024-08-04 22:51:59 CEST
 
 🔸 - fix(makefile_init): fix the tabulation in makefile at 2024-08-04 21:21:26 CEST
 
@@ -67,11 +73,5 @@ feat(src_init): add the init of the src directory at 2024-08-03 23:30:26 CEST
 
 merge(gitignore_init). at 2024-08-03 23:21:21 CEST
 
-🔸 - feat(gitignore_init): add the base of the gitignore setup at 2024-08-03 23:20:25 CEST
 
-🔸 - merge(mathisbukowski/makefile_init): pull request #1
-
-merge(makefile_init). at 2024-08-03 22:36:31 CEST
-
-
-⏲ Updated at 22:39:53
+⏲ Updated at 03:37:03
