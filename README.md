@@ -50,8 +50,16 @@ Thank you for visiting my GitHub profile!
 
 
 
+
+
 ## 🚦 Last commits on all repositories
 
+
+🔸 - chore(remake): remake the project with cleaner code at 2024-08-05 22:42:00 CEST
+
+🔸 - feat(readme): add readme at 2024-08-05 22:21:28 CEST
+
+🔸 - feat(readme): add readme. at 2024-08-05 22:08:03 CEST
 
 🔸 - Update README.md at 2024-08-04 22:53:05 CEST
 
@@ -69,15 +77,5 @@ feat(include_init): add the init of the include at 2024-08-03 23:53:00 CEST
 
 🔸 - feat(src_init): add the check of existing directory at 2024-08-03 23:48:11 CEST
 
-🔸 - merge(mathisbukowski/src_init): pull request #3
 
-feat(src_init): add the init of the src directory at 2024-08-03 23:30:26 CEST
-
-🔸 - feat(src_init): add the init of the src directory at 2024-08-03 23:29:52 CEST
-
-🔸 - merge(mathisbukowski/gitignore_init): pull request #2
-
-merge(gitignore_init). at 2024-08-03 23:21:21 CEST
-
-
-⏲ Updated at 20:28:09
+⏲ Updated at 03:35:06
