@@ -112,8 +112,18 @@ Thank you for visiting my GitHub profile!
 
 
 
+
+
 ## 🚦 Last commits on all repositories
 
+
+🔸 - merge(mathisbukowski/global_init): pull request #5
+
+adding global init at 2024-08-13 19:18:26 CEST
+
+🔸 - feat(global_init): adding global init at 2024-08-13 19:17:21 CEST
+
+🔸 - chore(readme): edit the task list at 2024-08-13 17:43:16 CEST
 
 🔸 - chore(remake): remake the project with cleaner code at 2024-08-05 22:42:00 CEST
 
@@ -129,13 +139,5 @@ Thank you for visiting my GitHub profile!
 
 🔸 - feat(init): edit for better creation of files at 2024-08-04 00:06:17 CEST
 
-🔸 - merge(mathisbukowski/include_init): pull request #4
 
-feat(include_init): add the init of the include at 2024-08-03 23:53:00 CEST
-
-🔸 - feat(include_init): add the init of the include at 2024-08-03 23:51:47 CEST
-
-🔸 - feat(src_init): add the check of existing directory at 2024-08-03 23:48:11 CEST
-
-
-⏲ Updated at 14:40:08
+⏲ Updated at 20:27:53
