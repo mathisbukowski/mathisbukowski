@@ -118,8 +118,12 @@ Thank you for visiting my GitHub profile!
 
 
 
+
+
 ## 🚦 Last commits on all repositories
 
+
+🔸 - feat(init): add a text in the global init at 2024-08-14 11:11:23 CEST
 
 🔸 - merge(mathisbukowski/global_init): pull request #5
 
@@ -141,7 +145,5 @@ adding global init at 2024-08-13 19:18:26 CEST
 
 🔸 - fix(makefile_init): fix the tabulation in makefile at 2024-08-04 21:21:26 CEST
 
-🔸 - feat(init): edit for better creation of files at 2024-08-04 00:06:17 CEST
 
-
-⏲ Updated at 08:28:29
+⏲ Updated at 14:39:41
