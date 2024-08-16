@@ -136,8 +136,16 @@ Thank you for visiting my GitHub profile!
 
 
 
+
+
 ## 🚦 Last commits on all repositories
 
+
+🔸 - merge(mathisbukowski/style_messages): pull request #6
+
+feat(style): adding color in the program at 2024-08-16 17:19:17 CEST
+
+🔸 - feat(style): adding color in the program at 2024-08-16 17:18:21 CEST
 
 🔸 - feat(init): add a text in the global init at 2024-08-14 11:11:23 CEST
 
@@ -157,9 +165,5 @@ adding global init at 2024-08-13 19:18:26 CEST
 
 🔸 - Update README.md at 2024-08-04 22:53:05 CEST
 
-🔸 - feat(readme): add readme. at 2024-08-04 22:51:59 CEST
 
-🔸 - fix(makefile_init): fix the tabulation in makefile at 2024-08-04 21:21:26 CEST
-
-
-⏲ Updated at 14:39:04
+⏲ Updated at 20:27:28
