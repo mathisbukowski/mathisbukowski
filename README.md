@@ -142,34 +142,34 @@ Thank you for visiting my GitHub profile!
 
 
 
+
+
 ## 🚦 Last commits on all repositories
 
+
+🔸 - merge(mathisbukowski/template_selection): pull request #8
+
+feat(template_selector): adding the template selector at 2024-08-17 13:31:13 CEST
+
+🔸 - fix(init): fixing the selector of templates at 2024-08-17 13:30:27 CEST
+
+🔸 - feat(templates): adding the asm template at 2024-08-17 13:22:15 CEST
+
+🔸 - del(haskell): delete the base haskell and replace with the two othersé at 2024-08-17 13:10:31 CEST
+
+🔸 - feat(templates): adding the haskell cabal template at 2024-08-17 13:09:59 CEST
+
+🔸 - chore(haskell-stack): change name of the build at 2024-08-17 13:09:39 CEST
+
+🔸 - feat(templates): adding the haskell template at 2024-08-17 13:06:30 CEST
+
+🔸 - feat(templates): adding the csfml template at 2024-08-17 13:00:03 CEST
+
+🔸 - refactor(init): refactor the main system with now templates on the repo at 2024-08-16 22:57:35 CEST
 
 🔸 - merge(mathisbukowski/templates_creation): pull request #7
 
 feat(templates): adding c template at 2024-08-16 22:09:21 CEST
 
-🔸 - chore(gitignore): editing the content of gitignore with bin file at 2024-08-16 17:45:16 CEST
 
-🔸 - feat(templates): adding the c template at 2024-08-16 17:44:50 CEST
-
-🔸 - feat(templates): adding the c template at 2024-08-16 17:44:19 CEST
-
-🔸 - merge(mathisbukowski/style_messages): pull request #6
-
-feat(style): adding color in the program at 2024-08-16 17:19:17 CEST
-
-🔸 - feat(style): adding color in the program at 2024-08-16 17:18:21 CEST
-
-🔸 - feat(init): add a text in the global init at 2024-08-14 11:11:23 CEST
-
-🔸 - merge(mathisbukowski/global_init): pull request #5
-
-adding global init at 2024-08-13 19:18:26 CEST
-
-🔸 - feat(global_init): adding global init at 2024-08-13 19:17:21 CEST
-
-🔸 - chore(readme): edit the task list at 2024-08-13 17:43:16 CEST
-
-
-⏲ Updated at 08:26:33
+⏲ Updated at 14:35:45
