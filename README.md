@@ -138,8 +138,20 @@ Thank you for visiting my GitHub profile!
 
 
 
+
+
 ## 🚦 Last commits on all repositories
 
+
+🔸 - merge(mathisbukowski/templates_creation): pull request #7
+
+feat(templates): adding c template at 2024-08-16 22:09:21 CEST
+
+🔸 - chore(gitignore): editing the content of gitignore with bin file at 2024-08-16 17:45:16 CEST
+
+🔸 - feat(templates): adding the c template at 2024-08-16 17:44:50 CEST
+
+🔸 - feat(templates): adding the c template at 2024-08-16 17:44:19 CEST
 
 🔸 - merge(mathisbukowski/style_messages): pull request #6
 
@@ -157,13 +169,5 @@ adding global init at 2024-08-13 19:18:26 CEST
 
 🔸 - chore(readme): edit the task list at 2024-08-13 17:43:16 CEST
 
-🔸 - chore(remake): remake the project with cleaner code at 2024-08-05 22:42:00 CEST
 
-🔸 - feat(readme): add readme at 2024-08-05 22:21:28 CEST
-
-🔸 - feat(readme): add readme. at 2024-08-05 22:08:03 CEST
-
-🔸 - Update README.md at 2024-08-04 22:53:05 CEST
-
-
-⏲ Updated at 20:27:28
+⏲ Updated at 03:32:48
