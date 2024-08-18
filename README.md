@@ -150,8 +150,14 @@ Thank you for visiting my GitHub profile!
 
 
 
+
+
 ## 🚦 Last commits on all repositories
 
+
+🔸 - feat(init): add the copy of template in the cloned repository at 2024-08-18 13:27:32 CEST
+
+🔸 - feat(test): test the init program at 2024-08-18 13:26:07 CEST
 
 🔸 - merge(mathisbukowski/template_selection): pull request #8
 
@@ -171,11 +177,5 @@ feat(template_selector): adding the template selector at 2024-08-17 13:31:13 CES
 
 🔸 - feat(templates): adding the csfml template at 2024-08-17 13:00:03 CEST
 
-🔸 - refactor(init): refactor the main system with now templates on the repo at 2024-08-16 22:57:35 CEST
 
-🔸 - merge(mathisbukowski/templates_creation): pull request #7
-
-feat(templates): adding c template at 2024-08-16 22:09:21 CEST
-
-
-⏲ Updated at 08:27:06
+⏲ Updated at 14:38:31
