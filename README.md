@@ -152,6 +152,8 @@ Thank you for visiting my GitHub profile!
 
 
 
+
+
 ## 🚦 Last commits on all repositories
 
 
@@ -178,4 +180,4 @@ feat(template_selector): adding the template selector at 2024-08-17 13:31:13 CES
 🔸 - feat(templates): adding the csfml template at 2024-08-17 13:00:03 CEST
 
 
-⏲ Updated at 14:38:31
+⏲ Updated at 20:25:16
