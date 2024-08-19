@@ -14,7 +14,7 @@ I'm currently living in Lille (France) and studying at Epitech !
 Here are some recent projects I've worked on:
 - **[Corewar](https://github.com/mathisbukowski/Corewar):** My version of the Corewar ! (w/[Rafael Drouart](https://github.com/rafaeldrouart))
 - **[Railess](https://github.com/mathisbukowski/Railess):** JAM Epitech made for drop all infos about train station.
-- **[MyRadar](https://github.com/mathisbukowski/MyRadar):** My graphic version of an air traffic control radar.
+- **[42sh](https://github.com/mathisbukowski/42sh):** My version of a UNIX shell.
 
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mathisbukowski&show_icons=true&theme=radical&v=1)
