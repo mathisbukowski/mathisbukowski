@@ -160,8 +160,20 @@ Thank you for visiting my GitHub profile!
 
 
 
+
+
 ## 🚦 Last commits on all repositories
 
+
+🔸 - merge(mathisbukowski/push_to_repo): pull request #10
+
+feat(push_to_repo): adding the push to the repo" at 2024-08-19 13:50:12 CEST
+
+🔸 - feat(push_project): adding the push of the project at 2024-08-19 13:48:09 CEST
+
+🔸 - feat(init): adding the base of the projet hello. at 2024-08-19 13:46:42 CEST
+
+🔸 - feat(init): adding the base of the projet hello. at 2024-08-19 13:45:39 CEST
 
 🔸 - fix(devops_setup): fix the init of workflows at 2024-08-18 23:33:29 CEST
 
@@ -177,13 +189,5 @@ Thank you for visiting my GitHub profile!
 
 feat(devops_setup): adding actions at 2024-08-18 22:16:10 CEST
 
-🔸 - feat(devops_setup): adding the condition to add the deploy action to project at 2024-08-18 22:15:13 CEST
 
-🔸 - fix at 2024-08-18 22:03:11 CEST
-
-🔸 - feat(devops_setup): adding the workflows at 2024-08-18 21:44:44 CEST
-
-🔸 - feat(init): add the copy of template in the cloned repository at 2024-08-18 13:27:32 CEST
-
-
-⏲ Updated at 12:55:30
+⏲ Updated at 14:39:28
