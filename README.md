@@ -154,30 +154,32 @@ Thank you for visiting my GitHub profile!
 
 
 
+
+
 ## 🚦 Last commits on all repositories
 
 
+🔸 - fix(devops_setup): fix the init of workflows at 2024-08-18 23:33:29 CEST
+
+🔸 - fix(devops_setup): fix the name of the directory name and add .github not .workflows at 2024-08-18 23:24:40 CEST
+
+🔸 - fix(devops_setup): fix the name of the directory at 2024-08-18 23:08:28 CEST
+
+🔸 - fix(devops_setup): fix the name of the directory at 2024-08-18 22:38:05 CEST
+
+🔸 - fix(devops_setup): fix the path of the workflow at 2024-08-18 22:37:09 CEST
+
+🔸 - merge(mathisbukowski/devops_setup): pull request #9
+
+feat(devops_setup): adding actions at 2024-08-18 22:16:10 CEST
+
+🔸 - feat(devops_setup): adding the condition to add the deploy action to project at 2024-08-18 22:15:13 CEST
+
+🔸 - fix at 2024-08-18 22:03:11 CEST
+
+🔸 - feat(devops_setup): adding the workflows at 2024-08-18 21:44:44 CEST
+
 🔸 - feat(init): add the copy of template in the cloned repository at 2024-08-18 13:27:32 CEST
 
-🔸 - feat(test): test the init program at 2024-08-18 13:26:07 CEST
 
-🔸 - merge(mathisbukowski/template_selection): pull request #8
-
-feat(template_selector): adding the template selector at 2024-08-17 13:31:13 CEST
-
-🔸 - fix(init): fixing the selector of templates at 2024-08-17 13:30:27 CEST
-
-🔸 - feat(templates): adding the asm template at 2024-08-17 13:22:15 CEST
-
-🔸 - del(haskell): delete the base haskell and replace with the two othersé at 2024-08-17 13:10:31 CEST
-
-🔸 - feat(templates): adding the haskell cabal template at 2024-08-17 13:09:59 CEST
-
-🔸 - chore(haskell-stack): change name of the build at 2024-08-17 13:09:39 CEST
-
-🔸 - feat(templates): adding the haskell template at 2024-08-17 13:06:30 CEST
-
-🔸 - feat(templates): adding the csfml template at 2024-08-17 13:00:03 CEST
-
-
-⏲ Updated at 20:25:16
+⏲ Updated at 03:37:45
