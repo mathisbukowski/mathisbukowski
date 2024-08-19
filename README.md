@@ -162,8 +162,18 @@ Thank you for visiting my GitHub profile!
 
 
 
+
+
 ## 🚦 Last commits on all repositories
 
+
+🔸 - chore(readme): fix the typo of the title at 2024-08-19 15:52:33 CEST
+
+🔸 - chore(readme): resize logo at 2024-08-19 15:51:40 CEST
+
+🔸 - chore(readme): edit the readme with logo at 2024-08-19 15:50:17 CEST
+
+🔸 - chore(readme): edit the readme for more infos at 2024-08-19 15:40:08 CEST
 
 🔸 - merge(mathisbukowski/push_to_repo): pull request #10
 
@@ -179,15 +189,5 @@ feat(push_to_repo): adding the push to the repo" at 2024-08-19 13:50:12 CEST
 
 🔸 - fix(devops_setup): fix the name of the directory name and add .github not .workflows at 2024-08-18 23:24:40 CEST
 
-🔸 - fix(devops_setup): fix the name of the directory at 2024-08-18 23:08:28 CEST
 
-🔸 - fix(devops_setup): fix the name of the directory at 2024-08-18 22:38:05 CEST
-
-🔸 - fix(devops_setup): fix the path of the workflow at 2024-08-18 22:37:09 CEST
-
-🔸 - merge(mathisbukowski/devops_setup): pull request #9
-
-feat(devops_setup): adding actions at 2024-08-18 22:16:10 CEST
-
-
-⏲ Updated at 14:39:28
+⏲ Updated at 20:27:15
