@@ -174,18 +174,18 @@ Thank you for visiting my GitHub profile!
 
 
 
+
+
 ## 🚦 Last commits on all repositories
 
 
-🔸 - feat(readme): update repo. at 2024-08-20 11:05:54 CEST in [mathisbukowski](https://github.com/mathisbukowski/mathisbukowski)
+🔸 - chore(init): change if to case to handle more cases at 2024-08-20 17:26:17 CEST in [Init](https://github.com/mathisbukowski/Init)
 
-🔸 - chore(commits_fetcher): trying to having the link  of the repo at 2024-08-20 11:04:24 CEST in [mathisbukowski](https://github.com/mathisbukowski/mathisbukowski)
+🔸 - feat(init): adding the base of the projet hello. at 2024-08-20 17:15:07 CEST in [test-repository](https://github.com/mathisbukowski/test-repository)
 
-🔸 - feat(readme): update repo. at 2024-08-20 11:00:51 CEST in [mathisbukowski](https://github.com/mathisbukowski/mathisbukowski)
+🔸 - feat(init): adding the base of the projet hello. at 2024-08-20 17:11:35 CEST in [test-repository](https://github.com/mathisbukowski/test-repository)
 
-🔸 - chore(commits_fetcher): trying to having the name of the repo at 2024-08-20 11:00:27 CEST in [mathisbukowski](https://github.com/mathisbukowski/mathisbukowski)
-
-🔸 - chore(commits_fetcher): trying to having the name of the repo at 2024-08-20 10:59:28 CEST in [mathisbukowski](https://github.com/mathisbukowski/mathisbukowski)
+🔸 - feat(init): adding the base of the projet hello. at 2024-08-20 17:11:04 CEST in [test-repository](https://github.com/mathisbukowski/test-repository)
 
 🔸 - chore(readme): adding a git clone section at 2024-08-20 10:15:29 CEST in [Init](https://github.com/mathisbukowski/Init)
 
@@ -193,9 +193,11 @@ Thank you for visiting my GitHub profile!
 
 🔸 - fix(readme): fix space in the prerequisites at 2024-08-20 10:05:31 CEST in [Init](https://github.com/mathisbukowski/Init)
 
-🔸 - feat(readme): update repo. at 2024-08-20 08:29:19 CEST in [mathisbukowski](https://github.com/mathisbukowski/mathisbukowski)
+🔸 - chore(readme): fix the typo of the title at 2024-08-19 15:52:33 CEST in [Init](https://github.com/mathisbukowski/Init)
 
-🔸 - feat(readme): update repo. at 2024-08-20 03:35:28 CEST in [mathisbukowski](https://github.com/mathisbukowski/mathisbukowski)
+🔸 - chore(readme): resize logo at 2024-08-19 15:51:40 CEST in [Init](https://github.com/mathisbukowski/Init)
+
+🔸 - chore(readme): edit the readme with logo at 2024-08-19 15:50:17 CEST in [Init](https://github.com/mathisbukowski/Init)
 
 
-⏲ Updated at 14:39:49
+⏲ Updated at 17:29:34
