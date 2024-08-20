@@ -56,7 +56,8 @@ def update_readme(commits):
     for commit in commits:
         message = commit['commit']['message']
         date = reformat_date(commit['commit']['author']['date'])
-        new_commits_content += f"\n🔸 - {message} at {date}\n"
+        repo_name = commit.get('repo_name', "No repo found")
+        new_commits_content += f"\n🔸 - {message} at {date} in {repo_name}\n"
 
     time_sentence = f"\n\n⏲ Updated at {time}"
     if "## 🚦 Last commits on all repositories" in current_content:
@@ -79,7 +80,10 @@ if __name__ == "__main__":
             try:
                 commits = fetch_commits(repo_name)
                 for commit in commits:
-                    commit['repo_name'] = repo_name
+                    if isinstance(commit, dict):
+                        commit['repo_name'] = repo_name
+                    else:
+                        print(f"Unexpected commit data format: {commit}")
                 all_commits.extend(commits)
             except requests.exceptions.HTTPError as e:
                 print(f"Error fetching commits for {repo_name}: {e}")
