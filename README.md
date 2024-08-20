@@ -168,30 +168,30 @@ Thank you for visiting my GitHub profile!
 
 
 
+
+
 ## 🚦 Last commits on all repositories
 
 
-🔸 - chore(readme): fix the typo of the title at 2024-08-19 15:52:33 CEST
+🔸 - chore(commits_fetcher): trying to having the name of the repo at 2024-08-20 11:00:27 CEST in mathisbukowski
 
-🔸 - chore(readme): resize logo at 2024-08-19 15:51:40 CEST
+🔸 - chore(commits_fetcher): trying to having the name of the repo at 2024-08-20 10:59:28 CEST in mathisbukowski
 
-🔸 - chore(readme): edit the readme with logo at 2024-08-19 15:50:17 CEST
+🔸 - chore(readme): adding a git clone section at 2024-08-20 10:15:29 CEST in Init
 
-🔸 - chore(readme): edit the readme for more infos at 2024-08-19 15:40:08 CEST
+🔸 - feat(readme): adding linkedin link to authors" at 2024-08-20 10:08:59 CEST in Init
 
-🔸 - merge(mathisbukowski/push_to_repo): pull request #10
+🔸 - fix(readme): fix space in the prerequisites at 2024-08-20 10:05:31 CEST in Init
 
-feat(push_to_repo): adding the push to the repo" at 2024-08-19 13:50:12 CEST
+🔸 - feat(readme): update repo. at 2024-08-20 08:29:19 CEST in mathisbukowski
 
-🔸 - feat(push_project): adding the push of the project at 2024-08-19 13:48:09 CEST
+🔸 - feat(readme): update repo. at 2024-08-20 03:35:28 CEST in mathisbukowski
 
-🔸 - feat(init): adding the base of the projet hello. at 2024-08-19 13:46:42 CEST
+🔸 - feat(readme): update repo. at 2024-08-19 20:27:23 CEST in mathisbukowski
 
-🔸 - feat(init): adding the base of the projet hello. at 2024-08-19 13:45:39 CEST
+🔸 - chore(readme): fix the typo of the title at 2024-08-19 15:52:33 CEST in Init
 
-🔸 - fix(devops_setup): fix the init of workflows at 2024-08-18 23:33:29 CEST
-
-🔸 - fix(devops_setup): fix the name of the directory name and add .github not .workflows at 2024-08-18 23:24:40 CEST
+🔸 - chore(readme): resize logo at 2024-08-19 15:51:40 CEST in Init
 
 
-⏲ Updated at 08:29:13
+⏲ Updated at 11:00:47
