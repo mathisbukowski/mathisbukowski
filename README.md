@@ -178,8 +178,18 @@ Thank you for visiting my GitHub profile!
 
 
 
+
+
 ## 🚦 Last commits on all repositories
 
+
+🔸 - merge(mathisbukowski/discordjsbot_adding): pull request #11
+
+feat(templates): adding the discord.js bot template at 2024-08-20 22:45:38 CEST in [Init](https://github.com/mathisbukowski/Init)
+
+🔸 - feat(templates): adding the discord.js bot template at 2024-08-20 22:20:08 CEST in [Init](https://github.com/mathisbukowski/Init)
+
+🔸 - Delete .idea directory at 2024-08-20 22:14:57 CEST in [discordbot](https://github.com/mathisbukowski/discordbot)
 
 🔸 - chore(init): change if to case to handle more cases at 2024-08-20 17:26:17 CEST in [Init](https://github.com/mathisbukowski/Init)
 
@@ -195,11 +205,5 @@ Thank you for visiting my GitHub profile!
 
 🔸 - fix(readme): fix space in the prerequisites at 2024-08-20 10:05:31 CEST in [Init](https://github.com/mathisbukowski/Init)
 
-🔸 - chore(readme): fix the typo of the title at 2024-08-19 15:52:33 CEST in [Init](https://github.com/mathisbukowski/Init)
 
-🔸 - chore(readme): resize logo at 2024-08-19 15:51:40 CEST in [Init](https://github.com/mathisbukowski/Init)
-
-🔸 - chore(readme): edit the readme with logo at 2024-08-19 15:50:17 CEST in [Init](https://github.com/mathisbukowski/Init)
-
-
-⏲ Updated at 20:27:22
+⏲ Updated at 03:35:41
