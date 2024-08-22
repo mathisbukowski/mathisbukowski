@@ -186,8 +186,38 @@ Thank you for visiting my GitHub profile!
 
 
 
+
+
 ## 🚦 Last commits on all repositories
 
+
+🔸 - chore(init): edit the line for setup packages at 2024-08-21 21:14:52 CEST in [Init](https://github.com/mathisbukowski/Init)
+
+🔸 - merge(mathisbukowski/dependabot/npm_and_yarn/templates/Discord.js-Bot/ws-8.18.0): pull request #12
+
+chore(deps): bump ws from 8.17.0 to 8.18.0 in /templates/Discord.js-Bot at 2024-08-21 21:02:19 CEST in [Init](https://github.com/mathisbukowski/Init)
+
+🔸 - merge(mathisbukowski/install_deps): pull request #13
+
+feat(install_deps): adding the installation of dependencies at 2024-08-21 21:01:34 CEST in [Init](https://github.com/mathisbukowski/Init)
+
+🔸 - feat(init): add the step for dependencies installation at 2024-08-21 20:59:47 CEST in [Init](https://github.com/mathisbukowski/Init)
+
+🔸 - feat(templates): adding dependencies file to have the required dependencies and install it at 2024-08-21 20:59:22 CEST in [Init](https://github.com/mathisbukowski/Init)
+
+🔸 - chore(deps): bump ws from 8.17.0 to 8.18.0 in /templates/Discord.js-Bot
+
+Bumps [ws](https://github.com/websockets/ws) from 8.17.0 to 8.18.0.
+- [Release notes](https://github.com/websockets/ws/releases)
+- [Commits](https://github.com/websockets/ws/compare/8.17.0...8.18.0)
+
+---
+updated-dependencies:
+- dependency-name: ws
+  dependency-type: indirect
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> at 2024-08-21 19:28:12 CEST in [Init](https://github.com/mathisbukowski/Init)
 
 🔸 - merge(mathisbukowski/discordjsbot_adding): pull request #11
 
@@ -199,17 +229,5 @@ feat(templates): adding the discord.js bot template at 2024-08-20 22:45:38 CEST 
 
 🔸 - chore(init): change if to case to handle more cases at 2024-08-20 17:26:17 CEST in [Init](https://github.com/mathisbukowski/Init)
 
-🔸 - feat(init): adding the base of the projet hello. at 2024-08-20 17:15:07 CEST in [test-repository](https://github.com/mathisbukowski/test-repository)
 
-🔸 - feat(init): adding the base of the projet hello. at 2024-08-20 17:11:35 CEST in [test-repository](https://github.com/mathisbukowski/test-repository)
-
-🔸 - feat(init): adding the base of the projet hello. at 2024-08-20 17:11:04 CEST in [test-repository](https://github.com/mathisbukowski/test-repository)
-
-🔸 - chore(readme): adding a git clone section at 2024-08-20 10:15:29 CEST in [Init](https://github.com/mathisbukowski/Init)
-
-🔸 - feat(readme): adding linkedin link to authors" at 2024-08-20 10:08:59 CEST in [Init](https://github.com/mathisbukowski/Init)
-
-🔸 - fix(readme): fix space in the prerequisites at 2024-08-20 10:05:31 CEST in [Init](https://github.com/mathisbukowski/Init)
-
-
-⏲ Updated at 20:27:14
+⏲ Updated at 03:37:28
