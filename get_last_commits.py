@@ -52,7 +52,7 @@ def update_readme(commits):
     except FileNotFoundError:
         current_content = ""
 
-    new_commits_content = "\n\n## 🚦 Last commits on all repositories\n\n"
+    new_commits_content = "## 🚦 Last commits on all repositories\n\n"
     for commit in commits:
         message = commit['commit']['message']
         date = reformat_date(commit['commit']['author']['date'])

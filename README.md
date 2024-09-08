@@ -28,16 +28,14 @@ Here are some recent projects I've worked on:
 
 ## 🌱 Currently Learning
 Right now, I am focused on learning:
-- [TypeScript & Angular](https://github.com/mathisbukowski/INN-ANGULAR)
-- Go & Java
+- TypeScript & Next.js
+- Java & Spring Boot
 - DevOps
 
 ## 💬 Let's Talk!
 I'm always open to discussing new ideas, projects, or just chatting about technology. Feel free to reach out!
 
 Thank you for visiting my GitHub profile!
-
-
 
 
 ## 🚦 Last commits on all repositories
