@@ -41,6 +41,10 @@ Thank you for visiting my GitHub profile!
 ## 🚦 Last commits on all repositories
 
 
+🔸 - refactor(liquibase): refactor setup with custom value at 2024-09-24 22:52:52 CEST in [nest-liquibase](https://github.com/mathisbukowski/nest-liquibase)
+
+🔸 - feat(socle): adding dockercompose for adding bdd for the test project at 2024-09-24 22:07:50 CEST in [nest-liquibase](https://github.com/mathisbukowski/nest-liquibase)
+
 🔸 - Add files via upload at 2024-09-24 17:11:03 CEST in [nest-liquibase](https://github.com/mathisbukowski/nest-liquibase)
 
 🔸 - Add files via upload at 2024-09-24 17:07:25 CEST in [nest-liquibase](https://github.com/mathisbukowski/nest-liquibase)
@@ -61,21 +65,5 @@ feat(install_deps): adding the installation of dependencies at 2024-08-21 21:01:
 
 🔸 - feat(init): add the step for dependencies installation at 2024-08-21 20:59:47 CEST in [Init](https://github.com/mathisbukowski/Init)
 
-🔸 - feat(templates): adding dependencies file to have the required dependencies and install it at 2024-08-21 20:59:22 CEST in [Init](https://github.com/mathisbukowski/Init)
 
-🔸 - chore(deps): bump ws from 8.17.0 to 8.18.0 in /templates/Discord.js-Bot
-
-Bumps [ws](https://github.com/websockets/ws) from 8.17.0 to 8.18.0.
-- [Release notes](https://github.com/websockets/ws/releases)
-- [Commits](https://github.com/websockets/ws/compare/8.17.0...8.18.0)
-
----
-updated-dependencies:
-- dependency-name: ws
-  dependency-type: indirect
-...
-
-Signed-off-by: dependabot[bot] <support@github.com> at 2024-08-21 19:28:12 CEST in [Init](https://github.com/mathisbukowski/Init)
-
-
-⏲ Updated at 20:30:28
+⏲ Updated at 03:47:19
