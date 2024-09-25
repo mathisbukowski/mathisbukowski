@@ -66,4 +66,4 @@ feat(install_deps): adding the installation of dependencies at 2024-08-21 21:01:
 🔸 - feat(init): add the step for dependencies installation at 2024-08-21 20:59:47 CEST in [Init](https://github.com/mathisbukowski/Init)
 
 
-⏲ Updated at 14:45:22
+⏲ Updated at 20:30:01
