@@ -41,6 +41,8 @@ Thank you for visiting my GitHub profile!
 ## 🚦 Last commits on all repositories
 
 
+🔸 - refactor(liquibase): adding a first changelog at 2024-09-26 21:15:49 CEST in [nest-liquibase](https://github.com/mathisbukowski/nest-liquibase)
+
 🔸 - refactor(liquibase): refactor setup with custom value at 2024-09-24 22:52:52 CEST in [nest-liquibase](https://github.com/mathisbukowski/nest-liquibase)
 
 🔸 - feat(socle): adding dockercompose for adding bdd for the test project at 2024-09-24 22:07:50 CEST in [nest-liquibase](https://github.com/mathisbukowski/nest-liquibase)
@@ -63,7 +65,5 @@ chore(deps): bump ws from 8.17.0 to 8.18.0 in /templates/Discord.js-Bot at 2024-
 
 feat(install_deps): adding the installation of dependencies at 2024-08-21 21:01:34 CEST in [Init](https://github.com/mathisbukowski/Init)
 
-🔸 - feat(init): add the step for dependencies installation at 2024-08-21 20:59:47 CEST in [Init](https://github.com/mathisbukowski/Init)
 
-
-⏲ Updated at 20:29:08
+⏲ Updated at 03:46:10
