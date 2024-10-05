@@ -64,4 +64,4 @@ chore(setup): init eslint, tsignore, prettier & next config. at 2024-10-04 23:09
 🔸 - refactor(liquibase): adding a first changelog at 2024-09-26 21:15:49 CEST in [nest-liquibase](https://github.com/mathisbukowski/nest-liquibase)
 
 
-⏲ Updated at 14:40:31
+⏲ Updated at 20:27:40
