@@ -41,6 +41,16 @@ Thank you for visiting my GitHub profile!
 ## 🚦 Last commits on all repositories
 
 
+🔸 - feat(pure-button): add start of mixin and tsx of pure component at 2024-10-04 23:22:27 CEST in [portfolio-v2](https://github.com/mathisbukowski/portfolio-v2)
+
+🔸 - merge(mathisbukowski/setup_project): #1
+
+chore(setup): init eslint, tsignore, prettier & next config. at 2024-10-04 23:09:21 CEST in [portfolio-v2](https://github.com/mathisbukowski/portfolio-v2)
+
+🔸 - chore(setup): init eslint, tsignore, prettier & next config. at 2024-10-04 23:08:26 CEST in [portfolio-v2](https://github.com/mathisbukowski/portfolio-v2)
+
+🔸 - feat(theme): add atom for theme at 2024-10-04 21:53:13 CEST in [portfolio-v2](https://github.com/mathisbukowski/portfolio-v2)
+
 🔸 - chore(init): init repository. at 2024-10-03 22:36:14 CEST in [portfolio-v2](https://github.com/mathisbukowski/portfolio-v2)
 
 🔸 - chore(init): init repository. at 2024-10-03 22:36:04 CEST in [portfolio-v2](https://github.com/mathisbukowski/portfolio-v2)
@@ -53,13 +63,5 @@ Thank you for visiting my GitHub profile!
 
 🔸 - refactor(liquibase): refactor setup with custom value at 2024-09-24 22:52:52 CEST in [nest-liquibase](https://github.com/mathisbukowski/nest-liquibase)
 
-🔸 - feat(socle): adding dockercompose for adding bdd for the test project at 2024-09-24 22:07:50 CEST in [nest-liquibase](https://github.com/mathisbukowski/nest-liquibase)
 
-🔸 - Add files via upload at 2024-09-24 17:11:03 CEST in [nest-liquibase](https://github.com/mathisbukowski/nest-liquibase)
-
-🔸 - Add files via upload at 2024-09-24 17:07:25 CEST in [nest-liquibase](https://github.com/mathisbukowski/nest-liquibase)
-
-🔸 - Add files via upload at 2024-09-24 17:06:17 CEST in [nest-liquibase](https://github.com/mathisbukowski/nest-liquibase)
-
-
-⏲ Updated at 20:30:01
+⏲ Updated at 03:44:35
