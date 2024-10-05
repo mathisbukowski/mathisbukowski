@@ -41,6 +41,8 @@ Thank you for visiting my GitHub profile!
 ## 🚦 Last commits on all repositories
 
 
+🔸 - refactor(pure-button): finish style and code of pure button at 2024-10-05 11:47:12 CEST in [portfolio-v2](https://github.com/mathisbukowski/portfolio-v2)
+
 🔸 - feat(pure-button): add start of mixin and tsx of pure component at 2024-10-04 23:22:27 CEST in [portfolio-v2](https://github.com/mathisbukowski/portfolio-v2)
 
 🔸 - merge(mathisbukowski/setup_project): #1
@@ -61,7 +63,5 @@ chore(setup): init eslint, tsignore, prettier & next config. at 2024-10-04 23:09
 
 🔸 - refactor(liquibase): adding a first changelog at 2024-09-26 21:15:49 CEST in [nest-liquibase](https://github.com/mathisbukowski/nest-liquibase)
 
-🔸 - refactor(liquibase): refactor setup with custom value at 2024-09-24 22:52:52 CEST in [nest-liquibase](https://github.com/mathisbukowski/nest-liquibase)
 
-
-⏲ Updated at 08:29:38
+⏲ Updated at 14:40:31
