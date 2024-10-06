@@ -41,6 +41,14 @@ Thank you for visiting my GitHub profile!
 ## 🚦 Last commits on all repositories
 
 
+🔸 - merge(mathisbukowski/header-component): #2
+
+Header component at 2024-10-05 21:54:24 CEST in [portfolio-v2](https://github.com/mathisbukowski/portfolio-v2)
+
+🔸 - refactor(header-component): adding header at 2024-10-05 21:53:24 CEST in [portfolio-v2](https://github.com/mathisbukowski/portfolio-v2)
+
+🔸 - refactor(header-component): adding light toggle, jotai, favicon at 2024-10-05 15:15:53 CEST in [portfolio-v2](https://github.com/mathisbukowski/portfolio-v2)
+
 🔸 - refactor(pure-button): finish style and code of pure button at 2024-10-05 11:47:12 CEST in [portfolio-v2](https://github.com/mathisbukowski/portfolio-v2)
 
 🔸 - feat(pure-button): add start of mixin and tsx of pure component at 2024-10-04 23:22:27 CEST in [portfolio-v2](https://github.com/mathisbukowski/portfolio-v2)
@@ -57,11 +65,5 @@ chore(setup): init eslint, tsignore, prettier & next config. at 2024-10-04 23:09
 
 🔸 - chore(init): init repository. at 2024-10-03 22:36:04 CEST in [portfolio-v2](https://github.com/mathisbukowski/portfolio-v2)
 
-🔸 - feat(init): adding first component at 2024-10-01 22:14:24 CEST in [portfolio-v2](https://github.com/mathisbukowski/portfolio-v2)
 
-🔸 - feat(init): init repository. at 2024-10-01 21:33:43 CEST in [portfolio-v2](https://github.com/mathisbukowski/portfolio-v2)
-
-🔸 - refactor(liquibase): adding a first changelog at 2024-09-26 21:15:49 CEST in [nest-liquibase](https://github.com/mathisbukowski/nest-liquibase)
-
-
-⏲ Updated at 20:27:40
+⏲ Updated at 03:52:35
