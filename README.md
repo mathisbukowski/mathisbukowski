@@ -23,14 +23,11 @@ Here are some recent projects I've worked on:
 
 ## 📫 Contact Me
 - **Email:** [mathis.bukowski@epitech.eu](mailto:mathis.bukowski@epitech.eu)
-- **Discord:** _mathisbkwk_
 - **[LinkedIn](https://www.linkedin.com/in/mathisbukowski/)**
 
 ## 🌱 Currently Learning
 Right now, I am focused on learning:
-- TypeScript & Nest.js
-- PostgreSQL
-- DevOps
+- C++
 
 ## 💬 Let's Talk!
 I'm always open to discussing new ideas or new projects. Feel free to reach out!
