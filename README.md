@@ -4,10 +4,10 @@ Hello, I'm Mathis, a technology enthusiast and developer.
 I'm currently living in Lille (France), studying at Epitech and working at [Sopra Steria](https://www.soprasteria.com/fr) !
 
 ## 🌟 Skills
-- **Programming Languages:** JavaScript, C, Typescript
+- **Programming Languages:** JavaScript, C, Typescript, C++, Python
 - **Frameworks and Libraries:** React, Node.js, Express.js, Next.js, Nest.js
 - **Databases:** MySQL, PostgreSQL
-- **Development Tools:** Git, Docker, Github Actions, DBeaver
+- **Development Tools:** Git, Docker, Github Actions, DBeaver, Jenkins
 - **Linux Systems:** Experienced in configuring Linux systems such as Arch, Debian, and Ubuntu from scratch
 
 ## 🔭 Recent Projects
