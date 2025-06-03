@@ -18,7 +18,7 @@ Here are some recent projects I've worked on:
 
 ## 📈 GitHub Stats
 ![mathisbukowski's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=mathisbukowski&show_icons=true&theme=dark#gh-dark-mode-only)
-![mathisbukowski's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mathisbukowski&theme=highcontrast&show_icons=true&hide_border=false&layout=compact)
+![mathisbukowski's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mathisbukowski&theme=dark#gh-dark-mode-only&show_icons=true&hide_border=false&layout=compact)
 
 
 ## 📫 Contact Me
