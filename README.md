@@ -17,9 +17,8 @@ Here are some recent projects I've worked on:
 - **[42sh](https://github.com/mathisbukowski/42sh):** My version of a UNIX shell.
 
 ## 📈 GitHub Stats
-![mathisbukowski's Stats](https://github-readme-stats.vercel.app/api?username=mathisbukowski&theme=dracula&show_icons=true&hide_border=false&count_private=true)
-![mathisbukowski's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mathisbukowski&theme=dracula&show_icons=true&hide_border=false&layout=compact)
-![mathisbukowski's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mathisbukowski&theme=dracula&hide_border=true)
+![mathisbukowski's Stats](https://github-readme-stats.vercel.app/api?username=mathisbukowski&theme=highcontrast&show_icons=true&hide_border=false&count_private=true)
+![mathisbukowski's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mathisbukowski&theme=highcontrast&show_icons=true&hide_border=false&layout=compact)
 
 
 ## 📫 Contact Me
