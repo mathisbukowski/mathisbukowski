@@ -17,9 +17,15 @@ Here are some recent projects I've worked on:
 - **[42sh](https://github.com/mathisbukowski/42sh):** My version of a UNIX shell.
 
 ## 📈 GitHub Stats
-![mathisbukowski's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=mathisbukowski&show_icons=true&theme=dark#gh-dark-mode-only)
-![mathisbukowski's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mathisbukowski&theme=dark#gh-dark-mode-only&show_icons=true&hide_border=false&layout=compact)
+<div align="center">
+  
+![Vos Stats GitHub](https://github-readme-stats.vercel.app/api?username=mathisbukowski&show_icons=true&theme=dark#gh-dark-mode-only&include_all_commits=true&count_private=true&hide_border=true)
 
+![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=mathisbukowski&layout=compact&theme=dark#gh-dark-mode-only&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=mathisbukowski&theme=dark#gh-dark-mode-only&hide_border=true)
+
+</div>
 
 ## 📫 Contact Me
 - **Email:** [mathis.bukowski@epitech.eu](mailto:mathis.bukowski@epitech.eu)
