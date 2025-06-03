@@ -17,13 +17,17 @@ Here are some recent projects I've worked on:
 - **[42sh](https://github.com/mathisbukowski/42sh):** My version of a UNIX shell.
 
 ## 📈 GitHub Stats
-<div justify-content="center">
-  
-![Vos Stats GitHub](https://github-readme-stats.vercel.app/api?username=mathisbukowski&show_icons=true&theme=dark#gh-dark-mode-only&include_all_commits=true&count_private=true&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=mathisbukowski&theme=dark#gh-dark-mode-only&hide_border=true)
-
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mathisbukowski&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathisbukowski&layout=compact&theme=dark&hide_border=true"/>
 </div>
+<div align="center">
+  <img width="400" src="https://streak-stats.demolab.com/?user=mathisbukowski&theme=dark&hide_border=true"/>
+</div>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mathisbukowski&theme=github-compact&hide_border=true&area=true"/>
+</div>
+
 
 ## 📫 Contact Me
 - **Email:** [mathis.bukowski@epitech.eu](mailto:mathis.bukowski@epitech.eu)
