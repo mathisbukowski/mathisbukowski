@@ -7,7 +7,7 @@ I'm currently living in Lille (France), studying at Epitech and working at [Sopr
 - **Programming Languages:** JavaScript, C, Typescript, C++, Python
 - **Frameworks and Libraries:** React, Node.js, Express.js, Next.js, Nest.js
 - **Databases:** MySQL, PostgreSQL
-- **Development Tools:** Git, Docker, Github Actions, DBeaver, Jenkins
+- **Development Tools:** Git, Docker, Github Actions, DBeaver, Jenkins, Ansible, GitLab
 - **Linux Systems:** Experienced in configuring Linux systems such as Arch, Debian, and Ubuntu from scratch
 
 ## 🔭 Recent Projects
