@@ -1,7 +1,10 @@
 # Hi there 👋
 
 Hello, I'm Mathis, a technology enthusiast and developer. 
-I'm currently living in Lille (France), studying at Epitech and working at [Sopra Steria](https://www.soprasteria.com/fr) !
+I'm currently living in Lille (France), studying at Epitech !
+
+## Profesionnal Experience
+- **[Sopra Steria](https://www.soprasteria.com/fr):** Villeneuve-d'Ascq, Vertical Transport, SNCF Voyageurs
 
 ## 🌟 Skills
 - **Programming Languages:** JavaScript, C, Typescript, C++, Python
