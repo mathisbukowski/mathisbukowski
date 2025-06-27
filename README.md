@@ -33,9 +33,8 @@ Here are some recent projects I've worked on:
 - **Email:** [mathis.bukowski@epitech.eu](mailto:mathis.bukowski@epitech.eu)
 - **[LinkedIn](https://www.linkedin.com/in/mathisbukowski/)**
 
-## 🌱 Currently Learning
-Right now, I am focused on learning:
-- C++
+## 🌱 Currently Working on :
+[Rustiq](https://github.com/mathisbukowski/Rustiq) 
 
 ## 💬 Let's Talk!
 I'm always open to discussing new ideas or new projects. Feel free to reach out!
