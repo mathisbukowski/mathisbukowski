@@ -15,9 +15,9 @@ I'm currently living in Lille (France), studying at Epitech !
 
 ## 🔭 Recent Projects
 Here are some recent projects I've worked on:
-- **[Corewar](https://github.com/mathisbukowski/Corewar):** My version of the Corewar ! (w/[Rafael Drouart](https://github.com/rafaeldrouart))
-- **[Railess](https://github.com/mathisbukowski/Railess):** JAM Epitech made for drop all infos about train station.
-- **[42sh](https://github.com/mathisbukowski/42sh):** My version of a UNIX shell.
+- **[Zappy](https://github.com/mathisbukowski/Zappy):** A multiplayer game with server side, client side and ai.
+- **[Arcade](https://github.com/mathisbukowski/Arcade):** A game engine with many games and libraries.
+- **[Rustiq](https://github.com/mathisbukowski/Rustiq):** An application built with a frontend, a backend and a homemade AI.
 
 ## 📈 GitHub Stats
 <div align="center">
