@@ -3,7 +3,7 @@
 Hello, I'm Mathis, a technology enthusiast and developer. 
 I'm currently living in Lille (France), studying at [Epitech](https://www.epitech.eu/) !
 
-## Profesionnal Experience
+## Profesionnal Experiences
 - **[Sopra Steria](https://www.soprasteria.com/fr)** : FullStack Engineer
 - **[O'Tera](https://www.otera.fr/)** : Backend Engineer
 
