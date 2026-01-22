@@ -72,8 +72,9 @@ I'm currently living in Lille (France), studying at [Epitech](https://www.epitec
 
 ## 🔭 Recent Projects
 Here are some recent projects I've worked on:
-- **[Zappy](https://github.com/mathisbukowski/Zappy):** A multiplayer game with server side, client side and ai.
+- **[AREA](https://github.com/mathisbukowski/AREA):** A website like Zappier.
 - **[Arcade](https://github.com/mathisbukowski/Arcade):** A game engine with many games and libraries.
+- **[R-Type](https://github.com/mathisbukowski/R-Type):** A multiplayer game with server side, client side and ECS.
 
 ## 📈 GitHub Stats
 <div align="center">
