@@ -5,7 +5,7 @@ I'm currently living in Lille (France), studying at [Epitech](https://www.epitec
 
 ## Profesionnal Experiences
 - **[Sopra Steria](https://www.soprasteria.com/fr)** : FullStack Engineer
-- **[O'Tera](https://www.otera.fr/)** : Backend Engineer
+- **[O'Tera](https://www.otera.fr/)** : FullStack Engineer
 
 ## 🌟 Skills
 
