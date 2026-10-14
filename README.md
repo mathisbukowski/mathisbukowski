@@ -77,18 +77,12 @@ Here are some recent projects I've worked on:
 - **[Arcade](https://github.com/mathisbukowski/Arcade):** A game engine with many games and libraries.
 - **[R-Type](https://github.com/mathisbukowski/R-Type):** A multiplayer game with server side, client side and ECS.
 
-## 📈 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mathisbukowski&theme=github-compact&hide_border=true&area=true"/>
-</div>
-
-
 ## 📫 Contact Me
 - **Email:** [mathis.bukowski@epitech.eu](mailto:mathis.bukowski@epitech.eu)
 - **[LinkedIn](https://www.linkedin.com/in/mathisbukowski/)**
 
 ## 🌱 Currently Working on :
-[Rustiq](https://github.com/mathisbukowski/Rustiq) 
+[Guido](https://github.com/Guido-Stack/) 
 
 ## 💬 Let's Talk!
 I'm always open to discussing new ideas or new projects. Feel free to reach out!
