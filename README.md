@@ -51,7 +51,7 @@ I'm currently living in Jönköping (Sweden), studying at [Epitech](https://www.
 ![Portainer](https://custom-icon-badges.demolab.com/badge/Portainer-C080FF.svg?logo=portainer&logoColor=white)
 ![Zed](https://custom-icon-badges.demolab.com/badge/Zed-000000.svg?logo=zed&logoColor=084CCF)
 ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)
-![Claude Code](https://custom-icon-badges.demolab.com/badge/Claude_Code-0078d7.svg?logo=claude&logoColor=white)
+![Claude Code](https://custom-icon-badges.demolab.com/badge/Claude_Code-555.svg?logo=claude)
 
 ### ☁️ Deployment
 ![Vercel](https://custom-icon-badges.demolab.com/badge/Vercel-000000.svg?logo=vercel&logoColor=white)
