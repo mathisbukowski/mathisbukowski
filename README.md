@@ -12,6 +12,7 @@ Jönköping, Sweden — from Lille, France
 [![Email](https://img.shields.io/badge/Email-contact%40mathisbukowski.fr-FF6B3D?style=flat-square&labelColor=0A0A0B)](mailto:contact@mathisbukowski.fr)
  
 </div>
+
 ---
  
 ### About
