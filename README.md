@@ -40,6 +40,7 @@ I build reliable software across the stack, from low-level C/C++ systems to mode
   <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgres,mysql,sqlite,pytorch,sklearn,docker,kubernetes,githubactions,gitlab,jenkins,ansible,nginx,bun,vitest,jest&theme=light" />
   <img alt="Data, AI, DevOps and tooling" src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,pytorch,sklearn,docker,kubernetes,githubactions,gitlab,jenkins,ansible,nginx,bun,vitest,jest&theme=dark" />
 </picture>
+
 ### Projects
  
 | Project | What it is |
@@ -53,7 +54,8 @@ I build reliable software across the stack, from low-level C/C++ systems to mode
 ---
  
 <div align="center">
-Got a project in mind? **[Let's talk](mailto:contact@mathisbukowski.fr)** · [mathisbukowski.fr](https://mathisbukowski.fr)
+
+ Got a project in mind? **[Let's talk](mailto:contact@mathisbukowski.fr)** · [mathisbukowski.fr](https://mathisbukowski.fr)
  
 </div>
  
