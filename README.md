@@ -1,90 +1,59 @@
-# Hi there 👋
-
-Hello, I'm Mathis, a technology enthusiast and developer. 
-I'm currently living in Jönköping (Sweden), studying at [Epitech](https://www.epitech.eu/) & [School of Engineering, Jönköping University](https://ju.se/) !
-
-## Profesionnal Experiences
-- **[Sopra Steria](https://www.soprasteria.com/fr)** : FullStack Engineer
-- **[O'Tera](https://www.otera.fr/)** : FullStack Engineer
-
-## 🌟 Skills
-
-### 💻 Languages
-![JavaScript](https://custom-icon-badges.demolab.com/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black)
-![TypeScript](https://custom-icon-badges.demolab.com/badge/TypeScript-3178C6.svg?logo=typescript&logoColor=white)
-![C](https://custom-icon-badges.demolab.com/badge/C-A8B9CC.svg?logo=c&logoColor=black)
-![C++](https://custom-icon-badges.demolab.com/badge/C++-00599C.svg?logo=cplusplus&logoColor=white)
-![Python](https://custom-icon-badges.demolab.com/badge/Python-3776AB.svg?logo=python&logoColor=white)
-![Go](https://custom-icon-badges.demolab.com/badge/Go-00ADD8.svg?logo=go&logoColor=white)
-![Assembly](https://custom-icon-badges.demolab.com/badge/Assembly-000000.svg?logo=terminal&logoColor=white)
-![SASS](https://custom-icon-badges.demolab.com/badge/Sass-CC6699.svg?logo=sass&logoColor=white)
-
-### ⚙️ Frameworks & Libraries
-![React](https://custom-icon-badges.demolab.com/badge/React-20232A.svg?logo=react&logoColor=61DAFB)
-![Next.js](https://custom-icon-badges.demolab.com/badge/Next.js-000000.svg?logo=nextjs&logoColor=white)
-![Node.js](https://custom-icon-badges.demolab.com/badge/Node.js-339933.svg?logo=node&logoColor=white)
-![Express.js](https://custom-icon-badges.demolab.com/badge/Express.js-000000.svg?logo=express&logoColor=white)
-![Nest.js](https://custom-icon-badges.demolab.com/badge/Nest.js-E0234E.svg?logo=nestjs&logoColor=white)
-![FastAPI](https://custom-icon-badges.demolab.com/badge/FastAPI-009688.svg?logo=fastapi&logoColor=white)
-![GraphQL](https://custom-icon-badges.demolab.com/badge/GraphQL-E10098.svg?logo=graphql&logoColor=white)
-![Angular](https://custom-icon-badges.demolab.com/badge/Angular-DD0031.svg?logo=angular&logoColor=white)
-![Spring Boot](https://custom-icon-badges.demolab.com/badge/Spring_Boot-6DB33F.svg?logo=springboot&logoColor=white)
-![OpenGL](https://custom-icon-badges.demolab.com/badge/OpenGL-5487A6.svg?logo=opengl&logoColor=white)
-
-### 🗄️ Databases
-![MySQL](https://custom-icon-badges.demolab.com/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white)
-![PostgreSQL](https://custom-icon-badges.demolab.com/badge/PostgreSQL-4169E1.svg?logo=postgresql&logoColor=white)
-![SQLite](https://custom-icon-badges.demolab.com/badge/SQLite-003B57.svg?logo=sqlite&logoColor=white)
-![TypeORM](https://custom-icon-badges.demolab.com/badge/TypeORM-FE0803.svg?logo=typeorm&logoColor=white)
-
-### 🔃 DevOps
-![Git](https://custom-icon-badges.demolab.com/badge/Git-F05032.svg?logo=git&logoColor=white)
-![Docker](https://custom-icon-badges.demolab.com/badge/Docker-2496ED.svg?logo=docker&logoColor=white)
-![Kubernetes](https://custom-icon-badges.demolab.com/badge/Kubernetes-326CE5.svg?logo=kubernetes&logoColor=white)
-![GitHub Actions](https://custom-icon-badges.demolab.com/badge/GitHub_Actions-2088FF.svg?logo=github-actions&logoColor=white)
-![GitLab CI/CD](https://custom-icon-badges.demolab.com/badge/GitLab_CI/CD-FC6D26.svg?logo=gitlab&logoColor=white)
-![Jenkins](https://custom-icon-badges.demolab.com/badge/Jenkins-D24939.svg?logo=jenkins&logoColor=white)
-![Ansible](https://custom-icon-badges.demolab.com/badge/Ansible-EE0000.svg?logo=ansible&logoColor=white)
-
-### 🛠️ Tools
-![Bun](https://custom-icon-badges.demolab.com/badge/Bun-000000.svg?logo=bun&logoColor=white)
-![Portainer](https://custom-icon-badges.demolab.com/badge/Portainer-C080FF.svg?logo=portainer&logoColor=white)
-![Zed](https://custom-icon-badges.demolab.com/badge/Zed-000000.svg?logo=zed&logoColor=084CCF)
-![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)
-![Claude Code](https://custom-icon-badges.demolab.com/badge/Claude_Code-555.svg?logo=claude)
-
-### ☁️ Deployment
-![Vercel](https://custom-icon-badges.demolab.com/badge/Vercel-000000.svg?logo=vercel&logoColor=white)
-![Nginx](https://custom-icon-badges.demolab.com/badge/Nginx-009639.svg?logo=nginx&logoColor=white)
-
-### 🧪 Testing & Quality
-![Jest](https://custom-icon-badges.demolab.com/badge/Jest-C21325.svg?logo=jest&logoColor=white)
-![Pytest](https://custom-icon-badges.demolab.com/badge/Pytest-0A9EDC.svg?logo=python&logoColor=white)
-![Vitest](https://custom-icon-badges.demolab.com/badge/Vitest-6E9F18.svg?logo=vitest&logoColor=white)
-![ESLint](https://custom-icon-badges.demolab.com/badge/ESLint-4B32C3.svg?logo=eslint&logoColor=white)
-![Prettier](https://custom-icon-badges.demolab.com/badge/Prettier-F7B93E.svg?logo=prettier&logoColor=black)
-
-### 🐧 Operating Systems
-![Linux](https://custom-icon-badges.demolab.com/badge/Linux-FCC624.svg?logo=linux&logoColor=black)
-![Arch Linux](https://custom-icon-badges.demolab.com/badge/Arch_Linux-1793D1.svg?logo=arch-linux&logoColor=white)
-![Debian](https://custom-icon-badges.demolab.com/badge/Debian-A81D33.svg?logo=debian&logoColor=white)
-![Ubuntu](https://custom-icon-badges.demolab.com/badge/Ubuntu-E95420.svg?logo=ubuntu&logoColor=white)
-![Linux Mint](https://custom-icon-badges.demolab.com/badge/Linux_Mint-87CF3E.svg?logo=linuxmint&logoColor=white)
-
-## 🔭 Recent Projects
-Here are some recent projects I've worked on:
-- **[AREA](https://github.com/mathisbukowski/AREA):** A website like Zappier.
-- **[Arcade](https://github.com/mathisbukowski/Arcade):** A game engine with many games and libraries.
-- **[R-Type](https://github.com/mathisbukowski/R-Type):** A multiplayer game with server side, client side and ECS.
-
-## 📫 Contact Me
-- **Email:** [mathis.bukowski@epitech.eu](mailto:mathis.bukowski@epitech.eu)
-- **[LinkedIn](https://www.linkedin.com/in/mathisbukowski/)**
-
-## 🌱 Currently Working on :
-[Guido](https://github.com/Guido-Stack/) 
-
-## 💬 Let's Talk!
-I'm always open to discussing new ideas or new projects. Feel free to reach out!
-
-Thank you for visiting my GitHub profile !
+<div align="center">
+<a href="https://mathisbukowski.fr"><img src="https://mathisbukowski.fr/signature-logo.png" width="72" alt="Mathis Bukowski logo" /></a>
+ 
+# Mathis Bukowski
+ 
+**Full-Stack Developer** · MSc AI Engineering student · Freelance
+ 
+Jönköping, Sweden — from Lille, France
+ 
+[![Portfolio](https://img.shields.io/badge/Portfolio-mathisbukowski.fr-FF6B3D?style=flat-square&labelColor=0A0A0B)](https://mathisbukowski.fr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mathisbukowski-FF6B3D?style=flat-square&labelColor=0A0A0B)](https://www.linkedin.com/in/mathisbukowski/)
+[![Email](https://img.shields.io/badge/Email-contact%40mathisbukowski.fr-FF6B3D?style=flat-square&labelColor=0A0A0B)](mailto:contact@mathisbukowski.fr)
+ 
+</div>
+---
+ 
+### About
+ 
+I build reliable software across the stack, from low-level C/C++ systems to modern TypeScript and Node.js web apps.
+ 
+- 🎓 Computer science student at **[Epitech](https://www.epitech.eu/)**, currently on a one-year exchange at **[Jönköping University](https://ju.se/)**, MSc Computer Science, AI Engineering
+- 💼 Full-Stack Engineer experience at **Sopra Steria** (SNCF projects) and **Otera**
+- 🛠️ Open to **freelance missions**: web apps, APIs and internal tools
+### Experience
+ 
+| Company | Role | Period |
+| :-- | :-- | :-- |
+| **[Sopra Steria](https://www.soprasteria.com/)** | Full-Stack Engineer · SNCF projects | Apr 2026 – Aug 2026 |
+| **[Otera](https://www.otera.fr/)** | Full-Stack Developer · internal business tools | Sep 2025 – Mar 2026 |
+| **[Sopra Steria](https://www.soprasteria.com/)** | Full-Stack Engineer · SNCF projects | Aug 2024 – Jan 2025 |
+ 
+### Stack
+ 
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,js,py,c,cpp,go,react,nextjs,angular,nodejs,nestjs,express,fastapi,spring,graphql&theme=light" />
+  <img alt="Languages and frameworks" src="https://skillicons.dev/icons?i=ts,js,py,c,cpp,go,react,nextjs,angular,nodejs,nestjs,express,fastapi,spring,graphql&theme=dark" />
+</picture>
+<br />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgres,mysql,sqlite,pytorch,sklearn,docker,kubernetes,githubactions,gitlab,jenkins,ansible,nginx,bun,vitest,jest&theme=light" />
+  <img alt="Data, AI, DevOps and tooling" src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,pytorch,sklearn,docker,kubernetes,githubactions,gitlab,jenkins,ansible,nginx,bun,vitest,jest&theme=dark" />
+</picture>
+### Projects
+ 
+| Project | What it is |
+| :-- | :-- |
+| **[Guido](https://github.com/Guido-Stack)** · *in progress* | Motorsport telemetry and performance analysis platform (NestJS) |
+| **[R-Type](https://github.com/mathisbukowski/R-Type)** | C++ game engine with modern rendering and UDP networking |
+| **[AREA](https://github.com/mathisbukowski/AREA)** | Web platform to automate and orchestrate tasks across services |
+| **[Arcade](https://github.com/mathisbukowski/Arcade)** | Modular retro-gaming platform with a plugin system and multiple renderers |
+| **[knime-mcp](https://github.com/mathisbukowski/knime-mcp)** · **[protege-mcp](https://github.com/mathisbukowski/protege-mcp)** | MCP servers for KNIME and Protégé |
+ 
+---
+ 
+<div align="center">
+Got a project in mind? **[Let's talk](mailto:contact@mathisbukowski.fr)** · [mathisbukowski.fr](https://mathisbukowski.fr)
+ 
+</div>
+ 
