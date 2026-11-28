@@ -3,7 +3,7 @@
  
 # Mathis Bukowski
  
-**Full-Stack Developer** · MSc AI Engineering student · Freelance
+**Full-Stack Developer** · MSc AI Engineering student
  
 Jönköping, Sweden — from Lille, France
  
@@ -20,15 +20,14 @@ Jönköping, Sweden — from Lille, France
 I build reliable software across the stack, from low-level C/C++ systems to modern TypeScript and Node.js web apps.
  
 - 🎓 Computer science student at **[Epitech](https://www.epitech.eu/)**, currently on a one-year exchange at **[Jönköping University](https://ju.se/)**, MSc Computer Science, AI Engineering
-- 💼 Full-Stack Engineer experience at **Sopra Steria** (Vertical Transport projects) and **Otera**
-- 🛠️ Open to **freelance missions**: web apps, APIs and internal tools
+- 💼 Full-Stack Engineer experience at **Sopra Steria** and **Otera**
 ### Experience
  
 | Company | Role | Period |
 | :-- | :-- | :-- |
-| **[Sopra Steria](https://www.soprasteria.com/)** | Full-Stack Engineer · Vertical Transport projects | Apr 2026 – Aug 2026 |
+| **[Sopra Steria](https://www.soprasteria.com/)** | Full-Stack Engineer | Apr 2026 – Aug 2026 |
 | **[Otera](https://www.otera.fr/)** | Full-Stack Developer · internal business tools | Sep 2025 – Mar 2026 |
-| **[Sopra Steria](https://www.soprasteria.com/)** | Full-Stack Engineer · Vertical Transport projects | Aug 2024 – Jan 2025 |
+| **[Sopra Steria](https://www.soprasteria.com/)** | Full-Stack Engineer | Aug 2024 – Jan 2025 |
  
 ### Stack
  
